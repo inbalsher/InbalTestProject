@@ -1,0 +1,26 @@
+[
+  {
+    "TimeGenerated": "5/10/2021, 5:33:06.377 PM",
+    "Account": "",
+    "AccountType": "",
+    "ManagementGroupName": "AOI-83c61c06-76fd-494d-990d-0805b4a177a6"
+  },
+  {
+    "TimeGenerated": "5/10/2021, 5:33:06.377 PM",
+    "Account": "NT AUTHORITY\\LOCAL SERVICE",
+    "AccountType": "Machine",
+    "ManagementGroupName": "AOI-83c61c06-76fd-494d-990d-0805b4a177a6"
+  },
+  {
+    "TimeGenerated": "5/10/2021, 5:33:09.730 PM",
+    "Account": "",
+    "AccountType": "",
+    "ManagementGroupName": "AOI-83c61c06-76fd-494d-990d-0805b4a177a6"
+  },
+  {
+    "TimeGenerated": "5/10/2021, 5:53:40.277 PM",
+    "Account": "",
+    "AccountType": "",
+    "ManagementGroupName": "AOI-83c61c06-76fd-494d-990d-0805b4a177a6"
+  }
+]
